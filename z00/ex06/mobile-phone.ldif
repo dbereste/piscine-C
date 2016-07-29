@@ -1,0 +1,4 @@
+dn: uid=dbereste,ou=2016_chisinau,ou=2016,ou=chisinau,ou=people,dc=42,dc=fr
+changetype: modify
+add: mobile
+mobile: 078424507

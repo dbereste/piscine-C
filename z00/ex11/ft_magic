@@ -1,0 +1,1 @@
+find . -name *.42 -exec -grep -H '42' {} \;
